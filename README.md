@@ -3,19 +3,21 @@
 # Hey, I'm Senara 👋
 
 Founder + engineer. Building out of Davis, CA.
-CS & Engineering @ UC Davis · Founder @ Data Pigeon · 5-for-5 competitive hackathon wins
-
-- 🔭 Currently building [Data Pigeon](https://www.datapigeon.org) — AI predictive maintenance for EV charging infrastructure
-- 🌱 Deepening my work in agentic AI systems and time-series ML at scale
-- 👯 Open to collaborating on applied ML, developer tools, or climate/energy tech
-- 💬 Ask me about founding a startup as a student, hackathon strategy, or EV infrastructure
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/senara-millawabandara/) or via [Devpost](https://devpost.com/sararaa)
-- ⚡ Fun fact: 5 hackathons entered, 5 won — Google, Snowflake, YC, SacHacks, HackDavis
+CS & Engineering @ UC Davis · Founder @ Data Pigeon · 5 competitive hackathon wins
 
 </div>
 
+- 🔭 Currently building [Data Pigeon](https://www.datapigeon.org) — AI predictive maintenance for EV charging infrastructure
+- 🌱 Deepening my work in agentic AI systems and time-series ML at scale
+- 👯 Open to collaborating on applied ML and developer tools
+- 💬 Ask me about founding a startup as a student or hackathon strategy
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/senara-millawabandara/) 
+
+
 ---
 
+<div align="center">
+  
 ## What I'm building
 
 - **[Data Pigeon](https://www.datapigeon.org)**: B2B AI platform for predictive maintenance on EV
