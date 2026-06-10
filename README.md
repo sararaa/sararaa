@@ -11,12 +11,9 @@
 </p>
 
 <!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sararaa&label=Profile%20views&color=378ADD&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
-  Founder + engineer building out of Davis, CA &middot; CS & Engineering @ UC Davis &middot; Graduating June 2026
+  Founder + engineer &middot; CS @ UC Davis &middot; AI/ML Engineer Intern @ Genserve AI &middot; Product Manager
 </p>
 
 ---
