@@ -27,7 +27,12 @@
 - 🌱 Going deep on agentic AI systems and time-series ML at scale
 - 👯 Open to collaborating on applied ML, developer tools, or climate/energy tech
 - 💬 Ask me about founding as a student, hackathon strategy, or EV infrastructure
-- ⚡ Fun fact: 5 hackathons entered, 5 won — Google, Snowflake, YC, SacHacks, HackDavis
+- ⚡ Fun fact: 5 hackathons won &nbsp;
+  ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+  ![Y Combinator](https://img.shields.io/badge/Y_Combinator-F26625?style=flat&logo=ycombinator&logoColor=white)
+  ![SacHacks](https://img.shields.io/badge/SacHacks-555555?style=flat)
+  ![HackDavis](https://img.shields.io/badge/HackDavis-555555?style=flat)
 
 ---
 
@@ -68,7 +73,12 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=flat&no-frame=true&column=6&margin-w=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaa&layout=compact&hide_border=true&title_color=1D9E75&text_color=378ADD&langs_count=8" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=flat&no-frame=true&column=6&margin-w=10" /> // this is not working :((
 </p>
 
 ---
