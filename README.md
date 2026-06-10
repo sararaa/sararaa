@@ -75,7 +75,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=flat&no-frame=true&column=6&margin-w=10" /> // this is not working :((
+  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=onestar&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
