@@ -1,99 +1,97 @@
-<div align="center">
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:378ADD,100:7F77DD&height=200&section=header&text=Senara%20Millawabandara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-# Hey, I'm Senara 👋
+<!-- TYPING TAGLINE -->
+<p align="center">
+  <a href="https://github.com/sararaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=1D9E75&center=true&vCenter=true&width=520&lines=Founder+%2B+Engineer;CS+%40+UC+Davis+%E2%80%A2+Class+of+2026;5-for-5+competitive+hackathon+wins;Building+Data+Pigeon+%F0%9F%95%8A" alt="Typing SVG" />
+  </a>
+</p>
 
-Founder + engineer. Building out of Davis, CA.
-CS & Engineering @ UC Davis · Founder @ Data Pigeon · 5 competitive hackathon wins
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sararaa&label=Profile%20views&color=378ADD&style=flat" alt="profile views" />
+</p>
 
-</div>
-
-- 🔭 Currently building [Data Pigeon](https://www.datapigeon.org) — AI predictive maintenance for EV charging infrastructure
-- 🌱 Deepening my work in agentic AI systems and time-series ML at scale
-- 👯 Open to collaborating on applied ML and developer tools
-- 💬 Ask me about founding a startup as a student or hackathon strategy
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/senara-millawabandara/) 
-
-
----
-
-<div align="center">
-  
-## What I'm building
-
-- **[Data Pigeon](https://www.datapigeon.org)**: B2B AI platform for predictive maintenance on EV
-  charging infrastructure. ML pipeline (XGBoost + BiLSTM) on 72.9M+ OCPP log rows with
-  TimescaleDB. Backed by CITRIS & Banatao Institute and UC Davis Innovation & Research Lab.
-
-- **Itinevera**: AI-powered trip planning app — Next.js · FastAPI · Supabase · Vertex AI.
-
-- **Watt**: Voice agent for EV charging customer support — troubleshooting flows,
-  escalation logic, work order dispatch, and CPO dashboard.
+<p align="center">
+  Founder + engineer building out of Davis, CA &middot; CS & Engineering @ UC Davis &middot; Graduating June 2026
+</p>
 
 ---
 
-## Specializations
+### 🚀 About me
 
-**🤖 AI & Machine Learning**
-XGBoost/BiLSTM pipelines · Agentic AI systems · RAG · Voice agents ·
-Stanford DeepMind Hackathon (Google AI Studio) · YC CallMyAgent Hackathon
-
-**🌐 Web & Full-Stack**
-TypeScript/Python stacks · REST APIs · Google Maps Platform integration ·
-Snowflake data warehousing · Modern full-stack architecture
-
-**📊 Data Engineering**
-TimescaleDB at scale (72.9M+ rows) · OCPP log processing ·
-Snowflake integration · API platform development
-
-**🎮 Graphics & Systems**
-Mandelbrot set visualization · SFML game development ·
-Fractal graphics (Sierpiński) · Systems programming
+- 🔭 Currently building **[Data Pigeon](https://www.datapigeon.org)** — AI predictive maintenance for EV charging infrastructure
+- 🌱 Going deep on agentic AI systems and time-series ML at scale
+- 👯 Open to collaborating on applied ML, developer tools, or climate/energy tech
+- 💬 Ask me about founding as a student, hackathon strategy, or EV infrastructure
+- ⚡ Fun fact: 5 hackathons entered, 5 won — Google, Snowflake, YC, SacHacks, HackDavis
 
 ---
 
-## Highlights
+### 🛠 Tech stack
 
-- 🏆 5 hackathon wins — Google, Snowflake, Y Combinator, SacHacks, HackDavis
-- 🌏 Global Finalist · 2026 India AI Impact Summit
-- 🎓 CS & Engineering, UC Davis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,fastapi,nodejs,tensorflow,sklearn,postgres,redis,docker,kubernetes,gcp,supabase,github,githubactions,vercel,git&perline=10" />
+</p>
 
 ---
 
-## Tech Stack
+### 🎯 Specializations
 
-<div align="center">
+| 🤖 AI & ML | 🌐 Web & Full-Stack |
+|---|---|
+| XGBoost / BiLSTM pipelines | TypeScript / Python stacks |
+| Agentic AI & RAG systems | Google Maps Platform |
+| Voice agents | REST APIs & modern frameworks |
+| Stanford DeepMind · YC CallMyAgent | Real-time web architectures |
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+| 📊 Data Engineering | 🎮 Graphics & Systems |
+|---|---|
+| TimescaleDB at scale (72.9M+ rows) | Mandelbrot set visualization |
+| OCPP log processing | SFML game development |
+| Snowflake warehousing | Fractal graphics (Sierpiński) |
+| API platform development | Systems programming |
 
-**Frameworks & Libraries**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+---
 
-**Infra & Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+### 📊 GitHub stats
 
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sararaa&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=378ADD&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sararaa&hide_border=true&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75" />
+</p>
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaa&layout=compact&hide_border=true&title_color=1D9E75&langs_count=8" />
+</p>
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senara-millawabandara/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/sararaa)
-[![Data Pigeon](https://img.shields.io/badge/Data%20Pigeon-datapigeon.org-1D9E75?style=flat)](https://www.datapigeon.org)
+### 🏆 Trophies
 
-Davis, CA
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=flat&no-frame=true&column=6&margin-w=10" />
+</p>
 
-</div>
+---
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/senara-millawabandara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://devpost.com/sararaa">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
+  <a href="https://www.datapigeon.org">
+    <img src="https://img.shields.io/badge/Data%20Pigeon-1D9E75?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:378ADD,100:1D9E75&height=80&section=footer" />
+</p>
