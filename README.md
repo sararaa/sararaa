@@ -60,12 +60,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sararaa&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=378ADD&include_all_commits=true&count_private=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sararaa&hide_border=true&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaa&layout=compact&hide_border=true&title_color=1D9E75&langs_count=8" />
 </p>
 
 ---
@@ -87,9 +82,7 @@
   <a href="https://devpost.com/sararaa">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
   </a>
-  <a href="https://www.datapigeon.org">
-    <img src="https://img.shields.io/badge/Data%20Pigeon-1D9E75?style=for-the-badge&logoColor=white" />
-  </a>
+  
 </p>
 
 <p align="center">
