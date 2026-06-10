@@ -88,14 +88,7 @@ Fractal graphics (Sierpiński) · Systems programming
 
 </div>
 
----
 
-<div align="center">
-
-![Senara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sararaa&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sararaa&layout=compact&hide_border=true)
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senara-millawabandara/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/sararaa)
