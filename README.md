@@ -60,20 +60,7 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaa&layout=compact&hide_border=true&title_color=1D9E75&text_color=378ADD&langs_count=8" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sararaa&theme=onestar&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
-### 🔗 Connect
+### 🔗 Lets Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/senara-millawabandara/">
