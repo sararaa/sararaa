@@ -57,13 +57,6 @@
 | Snowflake warehousing | Fractal graphics (Sierpiński) |
 | API platform development | Systems programming |
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sararaa&hide_border=true&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75" />
-</p>
 
 ---
 
