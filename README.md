@@ -13,7 +13,7 @@
 <!-- PROFILE VIEWS -->
 
 <p align="center">
-  Founder + engineer &middot; CS @ UC Davis &middot; AI/ML Engineer Intern @ Genserve AI &middot; Product Manager
+  Founder + Product Manager + Engineer &middot; CS @ UC Davis &middot; AI/ML Engineer Intern @ Genserve AI &middot; Product Manager
 </p>
 
 ---
